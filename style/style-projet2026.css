@@ -1,6 +1,7 @@
 @media (max-width: 768px) {
   #boutique,
-  #panier {
+  #panier,
+  .produit {
     display: block;
     width: 100%;
   }
