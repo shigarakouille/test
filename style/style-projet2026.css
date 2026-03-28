@@ -1,3 +1,11 @@
+@media (max-width: 768px) {
+  #boutique,
+  #panier {
+    display: block;
+    width: 100%;
+  }
+}
+
 body {
 	background-color : #a7ffe9;
 	width : 100%;
